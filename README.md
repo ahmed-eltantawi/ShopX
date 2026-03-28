@@ -2,9 +2,9 @@
   <img src="assets/app_logo.png" width="300" alt="App Logo" />
 </p>
 
-# The Archive (new_shopx)
+# ShopX
 
-A beautiful, luxury minimalist Flutter application focused on product management and seamless aesthetic experiences. "The Archive" features a stark contrast design language, balancing premium dark and light modes with refined typography and smooth interactions.
+A luxury minimalist e-commerce Flutter app that allows merchants to manage products (add, edit, update) through a clean and modern UI. Focused on RESTful API integration, backend communication, and real-world development practices, with API testing using Postman.
 
 ## 📱 Demo Video
 
