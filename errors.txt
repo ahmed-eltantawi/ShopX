@@ -1,0 +1,1 @@
+warning - lib\screens\home\home_screen.dart:4:8 - Unused import: 'package:new_shopx/services/get_categories.dart'. Try removing the import directive. - unused_import
