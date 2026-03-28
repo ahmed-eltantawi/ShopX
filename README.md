@@ -37,12 +37,44 @@ Building "The Archive" provided valuable experience in advanced Flutter concepts
 ## 📂 Project Structure (`lib/`)
 ```text
 lib/
-├── core/         # Theming, constants, styles, and utilities
-├── models/       # Data models
-├── screens/      # UI screens (Home, Add Product, Update Product)
-├── services/     # API/Network services
-├── widgets/      # Reusable UI components
-└── main.dart     # Application entry point
+├── core/                           # Theming, constants, styles, and utilities
+│   ├── app_colors.dart
+│   ├── app_styles.dart
+│   ├── consts.dart
+│   ├── extenuations.dart
+│   └── theme_provider.dart
+├── models/                         # Data models
+│   └── product_model.dart
+├── screens/                        # UI screens
+│   ├── home/
+│   │   ├── home_screen.dart
+│   │   └── widgets/
+│   │       ├── art_of_everyday_section.dart
+│   │       ├── hero_banner.dart
+│   │       ├── product_card.dart
+│   │       └── section_header.dart
+│   └── update_product/
+│       ├── update_product_screen.dart
+│       └── widgets/
+│           ├── archive_dropdown_field.dart
+│           ├── archive_form_field.dart
+│           └── product_image_preview.dart
+├── services/                       # API/Network services
+│   ├── add_product.dart
+│   ├── api_class.dart
+│   ├── get_all_products.dart
+│   ├── get_categories.dart
+│   ├── get_category_products.dart
+│   └── update_product.dart
+├── widgets/                        # Reusable UI components
+│   ├── archive_app_bar.dart
+│   ├── archive_bottom_nav_bar.dart
+│   ├── archive_drawer.dart
+│   ├── custom_button.dart
+│   ├── custom_product_card.dart
+│   ├── custom_text_field.dart
+│   └── show_snack_bar.dart
+└── main.dart                       # Application entry point
 ```
 
 ## 🛠️ Tech Stack
@@ -79,5 +111,3 @@ Make sure you have Flutter installed on your machine. You can find the installat
    ```
 
 Feel free to fork the project and open a PR if you have any improvements!
-
-
