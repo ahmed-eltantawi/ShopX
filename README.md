@@ -34,6 +34,7 @@ https://github.com/user-attachments/assets/3070fd69-dd56-438c-b448-9c76d050b3d5
 - **Category Selection**: Streamlined dropdown menus to categorize and organize inventory.
 <br>
 <br>
+
 ## 🧠 What I Learned
 
 Building "The Archive" helped reinforce my understanding of core backend integration concepts and real-world development workflows:
