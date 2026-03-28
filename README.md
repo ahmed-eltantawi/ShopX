@@ -5,10 +5,10 @@
 # ShopX
 
 A luxury minimalist e-commerce Flutter app that allows merchants to manage products (add, edit, update) through a clean and modern UI. Focused on RESTful API integration, backend communication, and real-world development practices, with API testing using Postman.
+\n
 
 
-
-
+---
 ## 📱 Demo Video
 
 
