@@ -29,12 +29,13 @@ https://github.com/user-attachments/assets/3070fd69-dd56-438c-b448-9c76d050b3d5
 - **Category Selection**: Streamlined dropdown menus to categorize and organize inventory.
 
 ## 🧠 What I Learned
-Building "The Archive" provided valuable experience in advanced Flutter concepts, particularly focusing on UI/UX and state management:
 
-1. **Crafting Premium UI/UX**: Moving beyond standard Material widgets to build custom, high-end interfaces. Learning how to effectively leverage negative space, custom fonts, and minimalist styling to create a luxury brand feel.
-2. **Advanced Theming**: Implementing a custom `ThemeProvider` with `ValueNotifier` to handle seamless dynamic theme switching without relying on complex external state management libraries for simple tasks.
-3. **Refining Micro-Interactions**: Improving the user experience by perfecting drawer toggle behaviors, optimizing input field spacing, and balancing visual hierarchy.
-4. **Handling Device Storage & APIs**: Managing local image uploads through `image_picker` and coordinating UI responses (like pull-to-refresh) to mimic reliable API data synchronization.
+Building "The Archive" helped reinforce my understanding of core backend integration concepts and real-world development workflows:
+
+RESTful API Fundamentals: Strengthened my understanding of RESTful APIs, including how to send requests, handle responses, and update data dynamically within the app.
+API Testing with Postman: Gained hands-on experience working with APIs using Postman, which helped me understand request/response cycles and debug backend communication effectively.
+Frontend & Backend Integration: Learned how to connect the Flutter frontend with backend services, ensuring smooth data flow and proper handling of asynchronous operations.
+Collaboration with Backend Developers: Understood the importance of coordinating with backend developers, aligning on API structure, endpoints, and data models to build a fully functional application.
 
 ## 📂 Project Structure (`lib/`)
 ```text
