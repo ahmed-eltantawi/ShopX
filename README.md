@@ -6,6 +6,7 @@
 
 A luxury minimalist e-commerce Flutter app that allows merchants to manage products (add, edit, update) through a clean and modern UI. Focused on RESTful API integration, backend communication, and real-world development practices, with API testing using Postman.
 <br>
+<br>
  
 
 
@@ -32,6 +33,7 @@ https://github.com/user-attachments/assets/3070fd69-dd56-438c-b448-9c76d050b3d5
 - **Pull-to-Refresh**: Intuitive pull-to-refresh interactions ensuring the product feed is always up-to-date.
 - **Category Selection**: Streamlined dropdown menus to categorize and organize inventory.
 <br>
+<br>
 ## 🧠 What I Learned
 
 Building "The Archive" helped reinforce my understanding of core backend integration concepts and real-world development workflows:
@@ -44,6 +46,7 @@ Building "The Archive" helped reinforce my understanding of core backend integra
 
 4. **Collaboration with Backend Developers**: Understood the importance of coordinating with backend developers, aligning on API structure, endpoints, and data models to build a fully functional application.
 ---
+<br>
 <br>
 ## 📂 Project Structure (`lib/`)
 ```text
