@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_logo.png" width="150" alt="App Logo" />
+</p>
+
 # The Archive (new_shopx)
 
 A beautiful, luxury minimalist Flutter application focused on product management and seamless aesthetic experiences. "The Archive" features a stark contrast design language, balancing premium dark and light modes with refined typography and smooth interactions.
@@ -6,6 +10,14 @@ A beautiful, luxury minimalist Flutter application focused on product management
 > **Note:** A demo video showcasing the app's smooth transitions, luxury design aesthetic, and robust product management features will be added here soon!
 
 *Insert GIF or link to demo video here*
+
+### App Screenshots
+
+| Light Mode | Dark Mode |
+|:---:|:---:|
+| <img src="assets/home_page_light.png" width="250" alt="Home Light"> | <img src="assets/home_page_dark.png" width="250" alt="Home Dark"> |
+| <img src="assets/add_product_1_light.png" width="250" alt="Add Product 1 Light"> | <img src="assets/add_product_1_dark.png" width="250" alt="Add Product 1 Dark"> |
+| <img src="assets/add_product_2_light.png" width="250" alt="Add Product 2 Light"> | <img src="assets/add_product_2_dark.png.png" width="250" alt="Add Product 2 Dark"> |
 
 ## ✨ Features
 - **Luxury Minimalist UI**: Designed with a "Stark Contrast" color palette emphasizing clean lines, bold typography (Jost font), and negative space.
@@ -22,6 +34,17 @@ Building "The Archive" provided valuable experience in advanced Flutter concepts
 2. **Advanced Theming**: Implementing a custom `ThemeProvider` with `ValueNotifier` to handle seamless dynamic theme switching without relying on complex external state management libraries for simple tasks.
 3. **Refining Micro-Interactions**: Improving the user experience by perfecting drawer toggle behaviors, optimizing input field spacing, and balancing visual hierarchy.
 4. **Handling Device Storage & APIs**: Managing local image uploads through `image_picker` and coordinating UI responses (like pull-to-refresh) to mimic reliable API data synchronization.
+
+## 📂 Project Structure (`lib/`)
+```text
+lib/
+├── core/         # Theming, constants, styles, and utilities
+├── models/       # Data models
+├── screens/      # UI screens (Home, Add Product, Update Product)
+├── services/     # API/Network services
+├── widgets/      # Reusable UI components
+└── main.dart     # Application entry point
+```
 
 ## 🛠️ Tech Stack
 - **Framework**: [Flutter](https://flutter.dev/)
