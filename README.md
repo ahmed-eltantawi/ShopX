@@ -32,10 +32,14 @@ https://github.com/user-attachments/assets/3070fd69-dd56-438c-b448-9c76d050b3d5
 
 Building "The Archive" helped reinforce my understanding of core backend integration concepts and real-world development workflows:
 
-RESTful API Fundamentals: Strengthened my understanding of RESTful APIs, including how to send requests, handle responses, and update data dynamically within the app.
-API Testing with Postman: Gained hands-on experience working with APIs using Postman, which helped me understand request/response cycles and debug backend communication effectively.
-Frontend & Backend Integration: Learned how to connect the Flutter frontend with backend services, ensuring smooth data flow and proper handling of asynchronous operations.
-Collaboration with Backend Developers: Understood the importance of coordinating with backend developers, aligning on API structure, endpoints, and data models to build a fully functional application.
+1. **RESTful API Fundamentals**: Strengthened my understanding of RESTful APIs, including how to send requests, handle responses, and update data dynamically within the app.
+
+2. **API Testing with Postman**: Gained hands-on experience working with APIs using **Postman**, which helped me understand request/response cycles and debug backend communication effectively.
+
+3. **Frontend & Backend Integration**: Learned how to connect the Flutter frontend with backend services, ensuring smooth data flow and proper handling of asynchronous operations.
+
+4. **Collaboration with Backend Developers**: Understood the importance of coordinating with backend developers, aligning on API structure, endpoints, and data models to build a fully functional application.
+---
 
 ## 📂 Project Structure (`lib/`)
 ```text
