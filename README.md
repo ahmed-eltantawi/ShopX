@@ -7,9 +7,11 @@
 A beautiful, luxury minimalist Flutter application focused on product management and seamless aesthetic experiences. "The Archive" features a stark contrast design language, balancing premium dark and light modes with refined typography and smooth interactions.
 
 ## 📱 Demo Video
-> **Note:** A demo video showcasing the app's smooth transitions, luxury design aesthetic, and robust product management features will be added here soon!
 
-*Insert GIF or link to demo video here*
+
+https://github.com/user-attachments/assets/3070fd69-dd56-438c-b448-9c76d050b3d5
+
+
 
 ### App Screenshots
 
