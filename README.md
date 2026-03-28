@@ -13,11 +13,10 @@ A beautiful, luxury minimalist Flutter application focused on product management
 
 ### App Screenshots
 
-| Light Mode | Dark Mode |
-|:---:|:---:|
-| <img src="assets/home_page_light.png" width="250" alt="Home Light"> | <img src="assets/home_page_dark.png" width="250" alt="Home Dark"> |
-| <img src="assets/add_product_1_light.png" width="250" alt="Add Product 1 Light"> | <img src="assets/add_product_1_dark.png" width="250" alt="Add Product 1 Dark"> |
-| <img src="assets/add_product_2_light.png" width="250" alt="Add Product 2 Light"> | <img src="assets/add_product_2_dark.png.png" width="250" alt="Add Product 2 Dark"> |
+| Home Page | Add Product 1 | Add Product 2 |
+|:---:|:---:|:---:|
+| <img src="assets/home_page_light.png" width="250" alt="Home Light"> | <img src="assets/add_product_1_light.png" width="250" alt="Add Product 1 Light"> | <img src="assets/add_product_2_light.png" width="250" alt="Add Product 2 Light"> |
+| <img src="assets/home_page_dark.png" width="250" alt="Home Dark"> | <img src="assets/add_product_1_dark.png" width="250" alt="Add Product 1 Dark"> | <img src="assets/add_product_2_dark.png.png" width="250" alt="Add Product 2 Dark"> |
 
 ## ✨ Features
 - **Luxury Minimalist UI**: Designed with a "Stark Contrast" color palette emphasizing clean lines, bold typography (Jost font), and negative space.
@@ -80,3 +79,4 @@ Make sure you have Flutter installed on your machine. You can find the installat
    ```
 
 Feel free to fork the project and open a PR if you have any improvements!
+
