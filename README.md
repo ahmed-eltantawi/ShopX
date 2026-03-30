@@ -14,7 +14,7 @@ A luxury minimalist e-commerce Flutter app that allows merchants to manage produ
 ## 📱 Demo Video
 
 
-
+(https://github.com/user-attachments/assets/aed4de80-8310-4156-82e4-585d1daba478)
 
 https://github.com/user-attachments/assets/aed4de80-8310-4156-82e4-585d1daba478
 
