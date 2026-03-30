@@ -14,7 +14,10 @@ A luxury minimalist e-commerce Flutter app that allows merchants to manage produ
 ## 📱 Demo Video
 
 
-https://github.com/user-attachments/assets/3070fd69-dd56-438c-b448-9c76d050b3d5
+
+
+Uploading ShopX 720.mp4…
+
 
 
 
